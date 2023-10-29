@@ -7,6 +7,7 @@ target
 os/src/link_app.S
 os/last-*
 os/Cargo.lock
+os/ci-user
 os/.gdb_history
 user/build
 user/target/*
